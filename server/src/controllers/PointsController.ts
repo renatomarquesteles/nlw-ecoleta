@@ -56,6 +56,7 @@ class PointsController {
       whatsapp,
       latitude,
       longitude,
+
       city,
       uf,
       items,
